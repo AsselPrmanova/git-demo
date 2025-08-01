@@ -11,3 +11,9 @@ Hello Assel
 
 More lines in original text
 Lets add
+
+Some content to check the undo
+
+Another new line to check
+
+--------------------------------
