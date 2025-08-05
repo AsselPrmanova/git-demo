@@ -20,4 +20,6 @@ Testing Branch and Merging
 
 One more lines to double check the features of the Branch
 
+For checking the tag function
+
 
